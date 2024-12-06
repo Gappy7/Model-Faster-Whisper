@@ -1,0 +1,7 @@
+Download it on this website
+
+```https://huggingface.co/Systran/faster-whisper-small/tree/main```
+
+or open an ubuntu terminal and in your directory type this command 
+
+```wget https://huggingface.co/Systran/faster-whisper-small/resolve/main/model.bin```
